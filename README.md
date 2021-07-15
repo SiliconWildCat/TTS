@@ -35,7 +35,8 @@ pip3 install flask-ngrok flask_cors pyttsx3
 
 ### Model Upload
 
-다운받은 model.zip을 colab에 올려 놓은 뒤
+new!! 모델 경로 수정 없이 run.py 해주시면 됩니다!
+_다운받은 model.zip을 colab에 올려 놓은 뒤
 
 ```
 unzip model.zip
