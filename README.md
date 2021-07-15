@@ -7,7 +7,9 @@
 2. model.zip 다운 받아 colab에 올려놓아야 합니다.
 3. 앞서 처음에 보여드렸을 때는 say it 버튼을 누르면 소리가 나오도록 하였는데 현재 버전은 wav 파일이 results.wav로 저장되도록 
    코드를 수정하였습니다.   
-[colab notebook](https://colab.research.google.com/drive/1bsdjDcknb-jJrNeCVCm-IAVBRacumsYi#scrollTo=RHJFSi2vtEwi)
+4. 로컬에서 사용 시 config.json, inference.py, run.py 내 경로 설정을 체크해주세요!!!! >> 중요
+ 
+>> [colab notebook](https://colab.research.google.com/drive/1bsdjDcknb-jJrNeCVCm-IAVBRacumsYi#scrollTo=RHJFSi2vtEwi)
 
 
 ### Installing 
