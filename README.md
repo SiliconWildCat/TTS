@@ -17,10 +17,11 @@
 현 프로젝트에 필요한 모듈 설치
 
 ```
+%cd /content/TTS/g2pK
 git clone https://github.com/sce-tts/g2pK.git
 !pip install -q --no-cache-dir "konlpy" "jamo" "nltk" "python-mecab-ko"
 !pip install -q --no-cache-dir -e 
-
+%cd /content/TTS/TTS
 git  https://github.com/sce-tts/TTS.git -b sce-tts
 pip install -q --no-cache-dir -e 
 
