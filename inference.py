@@ -4,6 +4,7 @@ import sys
 from unicodedata import normalize
 import IPython
 
+sys.path.append("/content/TTS/g2pK")
 from g2pK import g2pk
 from TTS.utils.synthesizer import Synthesizer
 
