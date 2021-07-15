@@ -9,7 +9,7 @@
    코드를 수정하였습니다.   
 4. 로컬에서 사용 시 config.json, inference.py, run.py 내 경로 설정을 체크해주세요!!!! >> 중요
  
->> [colab notebook](https://colab.research.google.com/drive/1bsdjDcknb-jJrNeCVCm-IAVBRacumsYi#scrollTo=RHJFSi2vtEwi)
+>> [colab notebook](https://colab.research.google.com/gist/thfla1105/f36e94bc7efdda7fd9d67479eb6e430d/tts-web-service-git.ipynb)
 
 
 ### Installing 
