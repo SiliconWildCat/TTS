@@ -1,4 +1,4 @@
-# TTS
+# TextToSpeech
 
 
 ## Getting Started
